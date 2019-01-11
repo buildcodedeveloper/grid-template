@@ -106,8 +106,8 @@ module.exports = merge(common, {
       {
         host: 'localhost',
         port: 3000,
-        proxy: 'work-series-html5.test:8081/',
-        browser: "chrome",
+        proxy: 'sample-grid-layout.test:4000/',
+        browser: "opera",
       }, {
         reload: false,
       },
